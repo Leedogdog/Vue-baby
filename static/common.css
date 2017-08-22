@@ -1,0 +1,27 @@
+html,body,ul,li,p,h1,h2,h3,h4,h5,dl,dt,dd{
+    padding:0;
+    margin:0;
+}
+body{
+    height: 100%;
+}
+i,em{
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+input{
+    border: 0;
+    outline: none;
+}
+img {
+    border: 0;
+    vertical-align: top;
+}
+.contents{
+    margin-bottom: 0.5rem;
+}
